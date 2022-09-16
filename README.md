@@ -4,7 +4,7 @@
 
 ```git
 
-git clone https://github.com/ShrutiVilasPatil/VehicleServicingManagementSystem
+git clone https://github.com/ShrutiVilasPatil/VehicleServicingManagementSystem.git
 
 ```
 ## How to run web application
