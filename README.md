@@ -26,11 +26,11 @@ npm start
 ```
     // Make sure you are on main branch (git status)
     // Then create new branch by following steps
-    press ctrl + shift + p
+        press ctrl + shift + p
 
-    search >git create branch
+        search >git create branch
 
-    give name to the branch, example "name-update-filename"
+        give name to the branch, example "name-update-filename"
 
     // Now you can start editing the code and submit to github
     
