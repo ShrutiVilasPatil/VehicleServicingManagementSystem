@@ -9,3 +9,5 @@ git clone https://github.com/ShrutiVilasPatil/VehicleServicingManagementSystem
 cd webapp
 
 npm install
+
+npm run start
