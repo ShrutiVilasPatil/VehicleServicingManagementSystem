@@ -3,19 +3,24 @@
 ## How to clone our project
 
 ```git
+
 git clone https://github.com/ShrutiVilasPatil/VehicleServicingManagementSystem
+
 ```
 ## How to run web application
 
 ```node
+
 cd webapp
 
 npm install
 
 npm start
+
 ```
 
 [First contribution - with command propt](https://github.com/firstcontributions/first-contributions)
+
 ## How to submit a code from VS Code
 
 ```
