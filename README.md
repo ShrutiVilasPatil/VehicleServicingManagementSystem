@@ -19,7 +19,7 @@ npm start
 
 ```
 
-[First contribution - with command propt](https://github.com/firstcontributions/first-contributions)
+[First contribution - with command promt](https://github.com/firstcontributions/first-contributions)
 
 ## How to submit a code from VS Code
 
