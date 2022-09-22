@@ -57,7 +57,8 @@
                                 <div class="dataTable-bottom">
                                 <div class="dataTable-bottom"><div class="dataTable-info">Showing entries</div></div>
                                <nav class="dataTable-pagination"><ul class="dataTable-pagination-list"><li class="active"><a href="#" data-page="1">1</a></li><li class=""><a href="#" data-page="2">2</a></li><li class="pager"><a href="#" data-page="2">>>></a></li></ul>
-                               </nav>
+                              <br> 
+                              </nav>
                                </div>
                                </div>
                             </div>
