@@ -70,6 +70,7 @@
                 <span>Sign Up</span>
                 <i class="bi bi-person-plus"></i>
               </a>
+              
               <a href="login" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>Login</span>
                 <i class="bi bi-box-arrow-in-right"></i>
